@@ -1,2 +1,4 @@
 imported_books/*
+!imported_books/.gitkeep
 new_books/*
+!new_books/.gitkeep
